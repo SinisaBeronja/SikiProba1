@@ -1,3 +1,4 @@
 neki sadrzaj 1
 izmenjano za trecu verziju
 verzija GUI
+nova izmena nakon logina
